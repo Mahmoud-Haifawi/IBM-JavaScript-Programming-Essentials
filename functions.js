@@ -1,4 +1,3 @@
-// ...existing code...
 console.log("HI");
 
 let var1 = 5;
