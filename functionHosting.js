@@ -147,3 +147,10 @@ function createButtonHandler(buttonId) {
 const handler = createButtonHandler('test');
 handler(); // "Button test clicked 1 times"
 handler(); // "Button test clicked 2 times"
+
+if (Math.random() > 0.5) {
+  var x = 1;
+} else {
+  var x = 2;
+}
+console.log(x);
